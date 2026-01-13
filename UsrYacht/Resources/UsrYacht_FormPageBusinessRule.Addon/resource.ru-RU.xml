@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.720691e6-ddf5-078a-f358-323443337c49.Caption" Value="Показать элементы: Комментарий" />
+			<Item Name="Caption" Value="Страница записи Яхты (Бизнес правила)" />
+		</Items>
+	</Group>
+</Resources>

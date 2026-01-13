@@ -2,13 +2,20 @@
   "Descriptor": {
     "UId": "4d50c6d9-da4a-4017-9693-f0affcd7b71c",
     "Name": "UsrYachtDriveType_Values",
-    "ModifiedOnUtc": "\/Date(1768299274000)\/",
+    "ModifiedOnUtc": "\/Date(1768300833000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "4d50c6d9-da4a-4017-9693-f0affcd7b71c",
       "Name": "UsrYachtDriveType"
     },
     "Columns": [
+      {
+        "ColumnUId": "5821c138-5236-2a5e-f652-993c25f55575",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrColor",
+        "DataTypeValueUId": "dafb71f9-ee9f-4e0b-a4d7-37aa15987155"
+      },
       {
         "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
         "IsForceUpdate": false,

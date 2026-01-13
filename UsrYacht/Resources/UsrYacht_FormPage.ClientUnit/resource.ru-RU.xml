@@ -3,9 +3,12 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Страница записи Яхты" />
+			<Item Name="LocalizableStrings.MyButton_caption.Value" Value="Нажмите!" />
+			<Item Name="LocalizableStrings.addRecord_0iacu4o_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_e77ofz3_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_kjt0xmz_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_ptsbahe_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_r3f4xl2_caption.Value" Value="Добавить" />
 		</Items>
 	</Group>
 </Resources>

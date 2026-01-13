@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Тип привода яхты" />
+			<Item Name="Columns.UsrColor.Caption" Value="Цвет" />
 			<Item Name="EventsProcessSchema.BaseElements.BaseEnityValidatingEventSubProcess_f0646c74f291474f9a10143ee868f1c9.Caption" Value="Validating record" />
 			<Item Name="EventsProcessSchema.BaseElements.BaseEnityValidatingScriptTask_a553628ef6dc4e09bdcf27e446fdc16f.Caption" Value="BaseEntityValidating" />
 			<Item Name="EventsProcessSchema.BaseElements.BaseEnityValidatingStartMessage_b3d5b61f7afe48b5a8cc40317ea9c428.Caption" Value="BaseEnityValidating" />

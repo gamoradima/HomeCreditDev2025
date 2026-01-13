@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.2bd41b01-fb73-d7ca-4aa8-6b53262aa21c.Caption" Value="ChildRule-b63034bd-1c6d-3669-3fe7-99c01911779d-ClearValue" />
+			<Item Name="AddonConfig.Rules.302ad4bf-561e-1a97-b84b-51f723990405.Caption" Value="ChildRule-b63034bd-1c6d-3669-3fe7-99c01911779d-PopulateValue" />
+			<Item Name="AddonConfig.Rules.b63034bd-1c6d-3669-3fe7-99c01911779d.Caption" Value="Применить фильтр: Город" />
+			<Item Name="AddonConfig.Rules.b9eb7e69-f63a-373d-1632-e94b450c0671.Caption" Value="Установить статический фильтр: Менеджер" />
+			<Item Name="Caption" Value="Яхты (Бизнес правила)" />
+		</Items>
+	</Group>
+</Resources>
