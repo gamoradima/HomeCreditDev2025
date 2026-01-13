@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2eca21d3-cd53-4ebb-88e6-ef1ce9dbd097",
+    "Name": "UsrYachtRelatedPage",
+    "ModifiedOnUtc": "\/Date(1768218651000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Яхты (Page settings)",
+    "DependsOn": []
+  }
+}

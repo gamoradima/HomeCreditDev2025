@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0ad86c40-485e-407c-8062-9d1b768d8152",
+    "Name": "UsrYacht_MobileListPage",
+    "ModifiedOnUtc": "\/Date(1768218651000)\/",
+    "Parent": {
+      "UId": "011e7dda-a763-4535-9b9a-e09eddd047be",
+      "Name": "BaseMobileListTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Яхты mobile list page",
+    "DependsOn": []
+  }
+}
