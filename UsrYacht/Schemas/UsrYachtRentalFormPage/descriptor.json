@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "610d21ab-9a71-4156-96fe-eaaa902e4d4c",
+    "Name": "UsrYachtRentalFormPage",
+    "ModifiedOnUtc": "\/Date(1768476521000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Cтраница записи Аренда яхты"
+  }
+}

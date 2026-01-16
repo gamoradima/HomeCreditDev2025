@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4079f36c-ec0e-46a7-8dfd-db82124df5f2",
+    "Name": "Accounts_FormPage",
+    "ModifiedOnUtc": "\/Date(1768482398000)\/",
+    "Parent": {
+      "UId": "22cc919e-9774-4117-b32d-39e829f2f197",
+      "Name": "Accounts_FormPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница записи Контрагенты"
+  }
+}

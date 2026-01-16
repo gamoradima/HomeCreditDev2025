@@ -2,6 +2,7 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
+			<Item Name="AddonConfig.Rules.30bf4805-0157-2454-1d06-a61461c4b19e.Caption" Value="Показать элементы: Цена билета" />
 			<Item Name="AddonConfig.Rules.720691e6-ddf5-078a-f358-323443337c49.Caption" Value="Показать элементы: Комментарий" />
 			<Item Name="Caption" Value="Страница записи Яхты (Бизнес правила)" />
 		</Items>

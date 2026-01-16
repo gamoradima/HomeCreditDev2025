@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "79904194-0d4c-4a8a-a6a8-37b584504bf4",
+    "Name": "UsrCalcAverageTicketPriceProcess",
+    "ModifiedOnUtc": "\/Date(1768565108000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Процесс расчета средней цены билетов яхт",
+    "DependsOn": []
+  }
+}

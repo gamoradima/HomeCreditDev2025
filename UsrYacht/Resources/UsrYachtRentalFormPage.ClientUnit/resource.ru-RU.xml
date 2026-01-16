@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Cтраница записи Аренда яхты" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Аренда яхты" />
+			<Item Name="LocalizableStrings.addRecord_hsao24w_caption.Value" Value="Добавить" />
+		</Items>
+	</Group>
+</Resources>
