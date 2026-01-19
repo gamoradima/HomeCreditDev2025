@@ -1162,7 +1162,7 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 					/* Call the next handler if it exists and return its result. */
 					return next?.handle(request);
 				}
-			},
+			}, /* MYCOMMENT */
 			{
 				request: "crt.HandleViewModelAttributeChangeRequest",
 				/* The custom implementation of the system query handler. */
