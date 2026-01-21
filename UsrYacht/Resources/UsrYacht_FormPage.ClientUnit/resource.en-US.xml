@@ -17,6 +17,7 @@
 			<Item Name="LocalizableStrings.PassengersCountCannotBeLess.Value" Value="Количество пассажиров должно быть не менее 1." />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Цена должна быть не меньше 50." />
 			<Item Name="LocalizableStrings.RunAvgTicketPriceProcessMenuItem_caption.Value" Value="Процесс расчета средней цены билета" />
+			<Item Name="LocalizableStrings.RunMaxPriceWebServiceMenuItem_caption.Value" Value="Вызов метода сервиса для расчета максимальной цены" />
 			<Item Name="LocalizableStrings.YachtCategoryMultiSelect_label.Value" Value="Категории" />
 			<Item Name="LocalizableStrings.addRecord_0iacu4o_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_e77ofz3_caption.Value" Value="Добавить" />
